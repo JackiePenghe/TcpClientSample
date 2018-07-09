@@ -116,7 +116,7 @@ bintray {
     configurations = ['archives']
     pkg {
         repo = "maven"
-        name = "baselibrary"
+        name = "tcpclientlibrary"
         userOrg = 'jackiepenghe'
         websiteUrl = siteUrl
         vcsUrl = gitUrl
