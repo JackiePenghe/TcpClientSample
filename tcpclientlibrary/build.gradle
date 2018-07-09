@@ -50,7 +50,7 @@ install {
         pom {
             project {
                 packaging 'aar'
-                name 'BaseLibrary For Android'
+                name 'client library For Android'
                 description 'The Android build the framework of the tcp client library.'
                 url siteUrl
 
